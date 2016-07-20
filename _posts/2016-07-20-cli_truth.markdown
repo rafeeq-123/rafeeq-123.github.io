@@ -1,1 +1,12 @@
-_posts/2016-07-20-cli_truth.markdown
+"# Cli Truth". 
+
+
+First I want to start with confusion: I took two months to even do the cli gem because I was afraid to do it. I did not want someone to laugh at me and tell me that I was not cut out for this program and that I was not going to successful in the tech world. I WAS AFRAID!!!
+
+This is my first time building really anything of  “use” from scratch. I had no idea what I was going to even do. I was hunting for ideas and then I realized that I am the second biggest Harry Potter fan I know and that I should do something with Pottemore; I immediately had challenges. I wanted to have: Ebooks, Audiobooks, the Potter new and upcoming events displayed so people could get info via my gem. That did not go as planned. I could not really scrap the site for news and coming up events like I wanted to; it was a sad day for Potter fans. I later decided that I would create a shop type gem that allowed people to choose between Ebooks, Audiobooks, Enhanced Books and the upcoming books with books order, name and price(s).
+
+I had a long problem with good ol’scope right from the go. I was not sure if my cli class should inherent my scraped class via “<” or something to that nature. I was lost. However, I was able to pair with a developer and he helped me see the error of my ways.
+
+When I was getting close to finishing up he told me that figuring out what was wrong is way easier when you have test and that TDD is a huge part of what he does as a devops developer. Although, I have my cli pretty much done I am messing around with TDD and trying to create test for my gem as practice for the “real” world.
+
+Above all this project showed me that I have so much to learn!
