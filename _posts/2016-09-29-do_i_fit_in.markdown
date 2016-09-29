@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Do I Fit In?"
+date:   2016-09-29 23:44:27 +0000
+---
+
+I have spent so long trying to avoid my problems with programming; with help I have been able to face my fears, programming has changed me. I decided no longer to be afraid of failing (my greatest fear). To do what I love and to support my family I am willing to make that personal sacrifice. I have to expose myself (my second biggest fear. I pair often with friends and people willing to help me to achieve my goal of being a "real programming." Programming is not something that I ever would get into as much as I have (my thoughts as I advance in the course). Sinatra made me feel like I could actually do this and say it out loud.
+
+Sinatra is not my favorite part of the program; I have been jumping around so I could avoid doing it...to be honest. However, after I got halfway into Rails and did not know what the hell I was doing, knew that me and Sinatra would have to meet, not only to finish the assessment, but use it as the course intended it; A stepping stone.
+
+It was not until the assessment that I started to understand what the routes were really doing (important knowledge, even if I use resources in Rails). Indeed, the meaning of Post, Patch, Get, Delete and so on eluded and mocked me in shadows of my own self-doubt. Before doing this assessment I thought that maybe I should quit the program because I was not finishing fast enough and that I really banked too much on the this whole programming thing. REJOICE! I may continue to have this problem as I build more things in the program, but I will continue to build and grow and become part of the Bay Area's very viberate programming community. 
+
+To dive deeper and deep is my goal. Making things as part of the program, hackathons or what have you I will keep trucking on until the very end. I have even started taking classes on the side (mainly JavaScript just to supplement my learning on learn. I love learning how to program.
+
+
+
+
+
